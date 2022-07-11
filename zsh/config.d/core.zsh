@@ -54,8 +54,6 @@ sauce () {
 #  envlns
   rblns
   jslns
-  rm ~/.irbrc
-  ln -s ~/repos/dotfiles/.irbrc ~/
 }
 
 echo "loading zshlns()"
